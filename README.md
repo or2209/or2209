@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-## I'm currently a third year student in computer science, I'm passionate about technologies and love to learn and explore new things, currently looking for my first opportunity to study and specialize.
-
-## Skills and Exprience
+## I'm passionate about technologics and love to learn and explore new things, currently looking my first opportunity to study and specialize.
 
 
+## Tools:
 🗣 Java | C++ | C | Python | Bash | Computer Networking
 🛢️ MySQL | SQLite | MongoDB |
 🎲 VScode | Intellij | AndroidStudio | Clion | Pycharm
