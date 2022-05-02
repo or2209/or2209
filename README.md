@@ -3,7 +3,7 @@
 ## I'm passionate about technologics and love to learn and explore new things, currently looking my first opportunity to study and specialize.
 
 
-## Tools:
+## 💻 Tools:
 🗣 Java | JavaScript | Python | Bash | <br />
 🛢️ MySQL | SQLite | MongoDB | FireBase <br />
 🎲 VScode | Intellij | AndroidStudio | Clion | Pycharm <br />
