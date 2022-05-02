@@ -4,10 +4,10 @@
 
 
 ## Tools:
-🗣 Java | C++ | C | Python | Bash | Computer Networking
-🛢️ MySQL | SQLite | MongoDB |
-🎲 VScode | Intellij | AndroidStudio | Clion | Pycharm
-:octocat: Git | Github
-📟 Linux | Win |
+# 🗣 Java | C++ | C | Python | Bash | Computer Networking
+#🛢️ MySQL | SQLite | MongoDB |
+#🎲 VScode | Intellij | AndroidStudio | Clion | Pycharm
+#:octocat: Git | Github
+#📟 Linux | Win |
 
 
