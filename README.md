@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##I'm currently a third year student in computer science, I'm passionate about technologies and love to learn and explore new things, currently looking for my first opportunity to study and specialize.
+## I'm currently a third year student in computer science, I'm passionate about technologies and love to learn and explore new things, currently looking for my first opportunity to study and specialize.
 
 ## Skills and Exprience
 
