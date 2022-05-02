@@ -5,8 +5,8 @@ I'm currently a third year student in computer science, I'm passionate about tec
 ## Skills and Exprience
 
 
-🗣 Java | C++ | C | Python | Bash | Computer Networking
-🛢️ MySQL | SQLite | MongoDB |
+*🗣 Java | C++ | C | Python | Bash | Computer Networking
+*🛢️ MySQL | SQLite | MongoDB |
 🎲 VScode | Intellij | AndroidStudio | Clion | Pycharm
 :octocat: Git | Github
 📟 Linux | Win |
